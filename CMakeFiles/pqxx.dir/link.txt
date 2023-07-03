@@ -1,0 +1,1 @@
+/usr/bin/c++  -Werror -Wall -Wextra CMakeFiles/pqxx.dir/main.cpp.o -o pqxx  -lpq 

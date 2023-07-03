@@ -1,0 +1,3 @@
+/home/serdar/projects/test/CMakeFiles/test.dir
+/home/serdar/projects/test/CMakeFiles/edit_cache.dir
+/home/serdar/projects/test/CMakeFiles/rebuild_cache.dir

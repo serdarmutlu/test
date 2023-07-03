@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Werror -Wall -Wextra CMakeFiles/test.dir/main.cpp.o CMakeFiles/test.dir/Timer.cpp.o CMakeFiles/test.dir/generic_tools.cpp.o -o test 

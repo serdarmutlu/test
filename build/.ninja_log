@@ -1,0 +1,8 @@
+# ninja log v5
+0	571	1686748875360271703	CMakeFiles/pqxx.dir/main.cpp.o	f78e900dcf65387
+1	52	1686750549039967434	CMakeFiles/test.dir/Timer.cpp.o	38cd1b00cfe68f89
+1	209	1686750549189967406	CMakeFiles/test.dir/generic_tools.cpp.o	c8f97cb20cee0055
+1	48	1686748933740267953	CMakeFiles/pqxx.dir/Timer.cpp.o	33c5f107a786fa36
+1	193	1686748933880267930	CMakeFiles/pqxx.dir/generic_tools.cpp.o	89ef5dd3cf1ac8d8
+1	194	1686750549179967408	CMakeFiles/test.dir/main.cpp.o	8b34c1afe2a98f5f
+209	461	1686750549439967360	test	31630e1ba8c4d7a1

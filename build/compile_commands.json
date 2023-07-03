@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/serdar/projects/test/build",
+  "command": "/usr/bin/g++ -I/home/serdar/projects/test/.  -g -Werror -Wall -Wextra -g -o CMakeFiles/test.dir/main.cpp.o -c /home/serdar/projects/test/main.cpp",
+  "file": "/home/serdar/projects/test/main.cpp"
+},
+{
+  "directory": "/home/serdar/projects/test/build",
+  "command": "/usr/bin/g++ -I/home/serdar/projects/test/.  -g -Werror -Wall -Wextra -g -o CMakeFiles/test.dir/Timer.cpp.o -c /home/serdar/projects/test/Timer.cpp",
+  "file": "/home/serdar/projects/test/Timer.cpp"
+},
+{
+  "directory": "/home/serdar/projects/test/build",
+  "command": "/usr/bin/g++ -I/home/serdar/projects/test/.  -g -Werror -Wall -Wextra -g -o CMakeFiles/test.dir/generic_tools.cpp.o -c /home/serdar/projects/test/generic_tools.cpp",
+  "file": "/home/serdar/projects/test/generic_tools.cpp"
+}
+]
