@@ -8,7 +8,7 @@ int main()
 {
     unsigned long long totalTime = 0, totalTimeLoop = 0;
 
-    Timer timerTotal;
+    Timer timerTotal, x;
 
 
 
